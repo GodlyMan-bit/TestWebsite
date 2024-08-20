@@ -1,0 +1,9 @@
+html{
+    margin: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url("grogu.jpg");
+    color: white;
+}
